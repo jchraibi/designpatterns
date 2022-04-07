@@ -15,5 +15,4 @@ It is composed of several bla bla bla bla. And also bla bla bli blaa bla.
 - principle4
 
 # Architecture diagram
-
 https://geekflare.com/wp-content/uploads/2015/10/draw-diagram-type.png
