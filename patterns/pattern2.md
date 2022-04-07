@@ -16,4 +16,4 @@ It is composed of several bla bla bla bla. And also bla bla bli blaa bla.
 
 # Architecture diagram
 
-This is the architecture diagram
+https://user-images.githubusercontent.com/19349382/162194241-0ad5e9d4-3f35-4256-8f5e-51a70e0471a4.png
