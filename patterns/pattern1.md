@@ -2,7 +2,8 @@
 Secure Supply Chain Design Pattern
 
 # Overview
-Pattern1 - This is a general description of the design pattern
+The goal of this Opinionated Design is to provide guidance on how a DevSecOps approach could be ‘architected’/implemented for a successful adoption across multi-cluster environments.
+
 
 # Overall Architecture
 
@@ -18,4 +19,5 @@ It is composed of several bla bla bla bla. And also bla bla bli blaa bla.
 - principle4
 
 # Architecture diagram
-https://user-images.githubusercontent.com/19349382/162194241-0ad5e9d4-3f35-4256-8f5e-51a70e0471a4.png
+
+https://user-images.githubusercontent.com/19349382/162239401-600209be-2f3a-46df-8861-345d1b97d89a.png
