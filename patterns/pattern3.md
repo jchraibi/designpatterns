@@ -1,3 +1,6 @@
+# Title
+Pattern 3 title
+
 # Overview
 Pattern3 - This is a general description of the design pattern
 
