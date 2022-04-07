@@ -2,7 +2,7 @@
 Secure Supply Chain Design Pattern
 
 # Overview
-The goal of this Opinionated Design is to provide guidance on how a DevSecOps approach could be ‘architected’/implemented for a successful adoption across multi-cluster environments.
+The goal of this Opinionated Design is to provide guidance on how a DevSecOps approach could be architected or implemented for a successful adoption across multi-cluster environments.
 
 
 # Overall Architecture
